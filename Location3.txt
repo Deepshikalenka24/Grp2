@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Mumbai</h1>
+        Mumbai ( also known as Bombay the official name until 1995) is the capital city of the Indian state of Maharashtra.<br>
+         Mumbai is the de facto financial centre and the most populous city of India with an estimated city proper <br>
+         population of 12.5 million (1.25 crore). Mumbai is the centre of the Mumbai Metropolitan Region, the sixth<br>
+          most populous metropolitan area in the world with a population of over 23 million (2.3 crore) living under the Mumbai
+          <br> Metropolitan Region.Mumbai lies on the Konkan coast on the west coast of India and has a deep natural <br>
+          harbour. In 2008, Mumbai was named an alpha world city.<br>
+        The seven islands that constitute Mumbai were earlier home to communities of Marathi language-speaking Koli people.<br>
+        For centuries, the seven islands of Bombay were under the control of successive indigenous rulers <br>
+        before being ceded to the Portuguese Empire, and subsequently to the East India Company in 1661, through the dowry of Catherine Braganza when she was married off to Charles II of England.<br>
+        Beginning in 1782, Mumbai was reshaped by the Hornby Vellard project, which undertook reclamation of the area between the seven islands from the sea.<br>
+         Along with construction of major roads and railways, the reclamation project, completed in 1845, transformed Mumbai into a major seaport on the Arabian Sea.<br>
+          Mumbai in the 19th century was characterized by economic and educational development. During the early 20th century it became a strong base for the <br>
+          Indian independence movement. Upon India's independence in 1947 the city was incorporated into Bombay State. <br>
+          In 1960, following the Samyukta Maharashtra Movement, 
+        a new state of Maharashtra was created with Mumbai as the capital.<br><br><br><br><br>
+        <img src="mumbai.jpg">
+    </body>
+</html>

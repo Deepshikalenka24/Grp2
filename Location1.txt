@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Bengaluru</h1>
+        
+        Bangalore(officially Bengaluru ), is the capital and largest city of the southern Indian state of Karnataka.<br>
+        It has a population of more than 8 million and a metropolitan population of around 11 million, making it India's<br>
+        third most populous city and fifth most populous urban agglomeration, as well as South India's second-largest urban <br>
+        agglomeration, and the 27th largest city in the world.Located on the Deccan Plateau, at a height of over 900 m (3,000 ft) <br>
+        above sea level, Bangalore has a pleasant climate throughout the year, with its parks and green spaces earning it the reputation<br>
+        of India's "Garden City". Its elevation is the highest among India's major cities.
+
+The city's history dates back to around 890, as found in a stone inscription found at the Nageshwara Temple<br> 
+in Begur, Bangalore. In 1537, Kempé Gowdā, a feudal ruler under the<br> Vijayanagara Empire, established a mud fort, considered the foundation of modern Bangalore<br>
+and its oldest areas, or pétés, which still exist. After the fall of the Vijayanagara Empire, Kempe Gowda declared independence;<br>
+in 1638, a large Adil Shahi Bijapur army defeated Kempe Gowda III, and <br>
+Bangalore came under Shahaji Bhonsle as a jagir, which later became his capital.<br><br><br><br><br><br>
+        <img src="blr.jpg">
+    </body>
+</html>
